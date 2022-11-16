@@ -1,0 +1,1 @@
+I was able to get the script running. I tried a few different interactive jobs on single-gpu and full-node and none completed in the 60 minutes or 15 minutes that I requested. I uploaded the best accuracy log to this folder.
